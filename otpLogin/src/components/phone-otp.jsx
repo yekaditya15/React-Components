@@ -21,7 +21,7 @@ const PhoneOtpForm = () => {
       alert("Invalid Phone Number");
       return;
     }
-    // Add further logic for handling valid phone number submission
+    //Implement the Backend API
     setshowOtpInput(true);
   };
   const onOtpSubmit = (otp) => {
