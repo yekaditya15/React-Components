@@ -8,7 +8,7 @@ import About from "./pages/about";
 import Blog from "./pages/blog";
 import Home from "./pages/home";
 
-import "./App.css";
+import "./Ap.css";
 
 const App = () => {
   return (
